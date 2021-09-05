@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/animacion"
+    android:oneshot="false">
+
+    <item
+        android:drawable="@drawable/animacion_110"
+        android:duration="160"/>
+    <item
+        android:drawable="@drawable/animacion_111"
+        android:duration="160"/>
+    <item
+        android:drawable="@drawable/animacion_112"
+        android:duration="160"/>
+    <item
+        android:drawable="@drawable/animacion_113"
+        android:duration="160"/>
+    <item
+        android:drawable="@drawable/animacion_114"
+        android:duration="160"/>
+    <item
+        android:drawable="@drawable/animacion_115"
+        android:duration="160"/>
+    <item
+        android:drawable="@drawable/animacion_116"
+        android:duration="160"/>
+
+</animation-list>
+<!-- From: file:/C:/Users/Luis%20P/Desktop/Gaby/Croco/app/src/main/res/drawable/animation_drawable_loop_boton_1.xml -->

@@ -1,0 +1,25 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:weightSum="1"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text=""
+            android:background="@drawable/boton_final"
+            android:id="@+id/button12"
+            android:onClick="onClickButton12"/>
+    </LinearLayout>
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/Luis%20P/Desktop/Gaby/Croco/app/src/main/res/layout/activity_final.xml -->

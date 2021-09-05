@@ -1,0 +1,5 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_focused="true" android:drawable="@drawable/b3_sombra"/>
+    <item android:state_pressed="true" android:drawable="@drawable/b3_sombra" />
+    <item android:drawable="@drawable/b3" />
+</selector><!-- From: file:/C:/Users/Luis%20P/Desktop/Gaby/Croco/app/src/main/res/drawable/boton_3_sombra.xml -->
